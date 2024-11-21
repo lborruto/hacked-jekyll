@@ -67,11 +67,11 @@
   value: "luca"
 
 - key: fortune
-  value: |
+  value:
     "The box said 'Requires Linux 3.0 or better', so I installed Arch."
 
   - key: figlet
-  value: |
+  value: 
   ___________                         _____                     
   \__    ___/______________________ _/ ____\___________  _____  
     |    |_/ __ \_  __ \_  __ \__  \\   __\/  _ \_  __ \/     \ 
