@@ -16,3 +16,9 @@ plugins:
 
 sass:
   sourcemap: never
+
+color_bg: gray-9        # Dark background
+color_punct: cyan-6     # Punctuation
+color_key: green-5      # Keys
+color_value: magenta-6  # Values
+color_hover: yellow-5   # Hover effect

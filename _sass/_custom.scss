@@ -8,3 +8,30 @@
 body {
     font-family: 'MesloLGS NF', monospace;
 }
+
+body {
+    background-color: #1d1f21;
+    /* Oh My Zsh dark terminal background */
+    color: #c5c8c6;
+    /* Light gray for text */
+}
+
+.punctuation {
+    color: #81a2be;
+    /* Blue for punctuation */
+}
+
+.key {
+    color: #b5bd68;
+    /* Green for keys */
+}
+
+.value {
+    color: #de935f;
+    /* Orange for values */
+}
+
+a:hover {
+    color: #f0c674;
+    /* Yellow for hover */
+}
