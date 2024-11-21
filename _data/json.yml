@@ -62,18 +62,3 @@
 
 - key: uname -a
   value: "Linux luca-pc 5.15.0-79-generic #86~20.04 SMP x86_64 GNU/Linux"
-
-- key: echo $USER
-  value: "luca"
-
-- key: fortune
-  value: "The box said 'Requires Linux 3.0 or better', so I installed Arch."
-
-- key: figlet
-  value: |
-    ___________                         _____                     
-    \__    ___/______________________ _/ ____\___________  _____  
-      |    |_/ __ \_  __ \_  __ \__  \\   __\/  _ \_  __ \/     \ 
-      |    |\  ___/|  | \/|  | \// __ \|  | (  <_> )  | \/  Y Y  \
-      |____| \___  >__|   |__|  (____  /__|  \____/|__|  |__|_|  /
-                \/                  \/                        \/ 
