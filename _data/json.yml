@@ -1,31 +1,80 @@
 - key: User
   value: luca@sysadmin:~$
+
 - key: Description
   value:
     - it system administrator
-    - project manager
-    - terraform
-    - unix
+    - it project manager
+    - freelance consultant
+    - terraform lover
   typed: true
+
+- key: Skills
+  value:
+    - Scripting --> Shell ; Python ; Powershell
+    - Linux --> Debian ; CentOS
+    - Infrastructure as Code --> Terraform
+    - Cloud Platforms --> Azure ; GCP
+
+- key: Certifications
+  value:
+    - Terraform Associate (HashiCorp)
+    - Linguaskill Business (fluent)
+
 - key: CV
   value: cv_v21-luca_11-2024.pdf
   url: /luca_borruto.pdf
+
 - key: /etc/location.conf
   value:
     - cat /etc/location.conf
     - tracepath -n 45.7640, 4.8357
-    - geo_success: Lyon, FR
+    - geo_success ; Lyon, FR
+
 - key: Contact
   value:
-    - key: /etc/office_location.conf
-      value: Agicap
-      url: "https://agicap.com/"
     - key: Email
       value: luca.borruto@gmail.com
       url: "mailto:luca.borruto@gmail.com"
+
+- key: Projects @ Agicap
+  value:
+    - key: Terraform Modules
+      value:
+        - azure resources
+        - hashicorp vault
+        - okta
+        - github org
+      typed: true
+    - key: 802.1x EAP-TLS auth
+      value:
+        - freeradius conf
+        - certificates deployment
+        - aps conf
+      typed: true
+
 - key: Profiles
   value:
     - value: Github
       url: https://github.com/lborruto
     - value: LinkedIn
       url: https://www.linkedin.com/in/lborruto/
+
+- key: uname -a
+  value: "Linux luca-pc 5.15.0-79-generic #86~20.04 SMP x86_64 GNU/Linux"
+
+- key: echo $USER
+  value: "luca"
+
+- key: fortune
+  value: |
+    "The box said 'Requires Linux 3.0 or better', so I installed Arch."
+
+  - key: figlet
+  value: |
+  ___________                         _____                     
+  \__    ___/______________________ _/ ____\___________  _____  
+    |    |_/ __ \_  __ \_  __ \__  \\   __\/  _ \_  __ \/     \ 
+    |    |\  ___/|  | \/|  | \// __ \|  | (  <_> )  | \/  Y Y  \
+    |____| \___  >__|   |__|  (____  /__|  \____/|__|  |__|_|  /
+              \/                  \/                        \/ 
