@@ -1,38 +1,31 @@
-- key: Name
-  value: Place Holder
+- key: User
+  value: luca@sysadmin:~$
 - key: Description
   value:
-    - Hello!
-    - This tiny website
-    - Looks like JSON
+    - it system administrator
+    - project manager
+    - terraform
+    - unix
   typed: true
 - key: CV
-  value: cv.pdf
-  url: /cv.pdf
-- key: Address
+  value: cv_v21-luca_11-2024.pdf
+  url: /luca_borruto.pdf
+- key: /etc/location.conf
   value:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - cat /etc/location.conf
+    - tracepath -n 45.7640, 4.8357
+    - geo_success: Lyon, FR
 - key: Contact
   value:
-    - key: Office
-      value: Foobar Hall 1.23
-    - key: Phone
-      value: +1 234 567 890
+    - key: /etc/office_location.conf
+      value: Agicap
+      url: "https://agicap.com/"
     - key: Email
-      value: username@domain.com
-      url: "mailto:username@domain.com"
-- key: Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
+      value: luca.borruto@gmail.com
+      url: "mailto:luca.borruto@gmail.com"
 - key: Profiles
   value:
-    - value: Instagram
-      url: https://www.instagram.com
+    - value: Github
+      url: https://github.com/lborruto
     - value: LinkedIn
-      url: https://www.linkedin.com
-    - value: StackOverflow
-      url: https://stackoverflow.com
-    - value: GitHub
-      url: https://github.com
+      url: https://www.linkedin.com/in/lborruto/
