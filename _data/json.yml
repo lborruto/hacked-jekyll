@@ -11,15 +11,15 @@
 
 - key: Skills
   value:
-    - Scripting --> Shell ; Python ; Powershell
-    - Linux --> Debian ; CentOS
-    - Infrastructure as Code --> Terraform
-    - Cloud Platforms --> Azure ; GCP
+    - Scripting: Shell, Python, Powershell
+    - Linux: Debian, CentOS
+    - Infrastructure as Code: Terraform
+    - Cloud Platforms: Azure, GCP
 
-- key: Certifications
+- key: Projects @ Agicap
   value:
-    - Terraform Associate (HashiCorp)
-    - Linguaskill Business (fluent)
+    - Terraform Modules: Azure resources, HashiCorp Vault, Okta, GitHub Org
+    - 802.1x EAP-TLS auth: FreeRADIUS conf, Certificates deployment, APs conf
 
 - key: CV
   value: cv_v21-luca_11-2024.pdf
@@ -36,22 +36,6 @@
     - key: Email
       value: luca.borruto@gmail.com
       url: "mailto:luca.borruto@gmail.com"
-
-- key: Projects @ Agicap
-  value:
-    - key: Terraform Modules
-      value:
-        - azure resources
-        - hashicorp vault
-        - okta
-        - github org
-      typed: true
-    - key: 802.1x EAP-TLS auth
-      value:
-        - freeradius conf
-        - certificates deployment
-        - aps conf
-      typed: true
 
 - key: Profiles
   value:
