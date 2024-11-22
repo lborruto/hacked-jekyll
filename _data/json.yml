@@ -19,7 +19,7 @@
       value: Debian, CentOS, Terraform, Intune
     - key: Security and IDP
       value: HashiCorp Vault, Okta
-    - key: Collaboration and Version Control
+    - key: version control
       value: Git
 
 - key: Projects@Agicap
