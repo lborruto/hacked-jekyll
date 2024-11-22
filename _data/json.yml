@@ -17,9 +17,11 @@
       value: Debian, CentOS
     - key: Infrastructure as Code
       value: Terraform
+    - key: Virtualization
+      value: vmware esx, docker, kubernetes
     - key: Cloud Platforms
       value: Azure, GCP
-    - key: Other
+    - key: Secrets Management
       value: HashiCorp Vault
     - key: Endpoint Management
       value: Intune
