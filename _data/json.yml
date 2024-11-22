@@ -12,17 +12,17 @@
 - key: Skills
   value:
     - key: Platforms and Tools
-      value: Azure, GCP, VMware ESX, Docker, Kubernetes
-    - key: Programming and Scripting
+      value: Azure, GCP, VMware ESX, Kubernetes
+    - key: Scripting
       value: Shell, Python, Powershell
-    - key: Systems and Infrastructure
-      value: Linux (Debian, CentOS), Terraform, Intune
-    - key: Security and Identity Management
+    - key: Infrastructure
+      value: Debian, CentOS, Terraform, Intune
+    - key: Security and IDP
       value: HashiCorp Vault, Okta
     - key: Collaboration and Version Control
       value: Git
 
-- key: Projects @ Agicap
+- key: Projects@Agicap
   value:
     - key: Terraform Modules
       value: Azure resources, HashiCorp Vault, Okta, GitHub Org
@@ -35,7 +35,7 @@
 
 - key: /etc/location.conf
   value:
-    - cat /etc/location.conf
+    - cat location.conf
     - tracepath -n 45.7640, 4.8357
     - geo_success ; Lyon, FR
 
