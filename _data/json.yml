@@ -11,15 +11,29 @@
 
 - key: Skills
   value:
-    - Scripting: Shell, Python, Powershell
-    - Linux: Debian, CentOS
-    - Infrastructure as Code: Terraform
-    - Cloud Platforms: Azure, GCP
+    - key: Scripting
+      value: Shell, Python, Powershell
+    - key: Linux
+      value: Debian, CentOS
+    - key: Infrastructure as Code
+      value: Terraform
+    - key: Cloud Platforms
+      value: Azure, GCP
+    - key: Other
+      value: HashiCorp Vault
+    - key: Endpoint Management
+      value: Intune
+    - key: Version Control
+      value: Git
+    - key: Identity and Access Management
+      value: Okta
 
 - key: Projects @ Agicap
   value:
-    - Terraform Modules: Azure resources, HashiCorp Vault, Okta, GitHub Org
-    - 802.1x EAP-TLS auth: FreeRADIUS conf, Certificates deployment, APs conf
+    - key: Terraform Modules
+      value: Azure resources, HashiCorp Vault, Okta, GitHub Org
+    - key: 802.1x EAP-TLS auth
+      value: FreeRADIUS conf, Certificates deployment, APs conf
 
 - key: CV
   value: cv_v21-luca_11-2024.pdf
