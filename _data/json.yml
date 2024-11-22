@@ -11,24 +11,16 @@
 
 - key: Skills
   value:
-    - key: Scripting
+    - key: Platforms and Tools
+      value: Azure, GCP, VMware ESX, Docker, Kubernetes
+    - key: Programming and Scripting
       value: Shell, Python, Powershell
-    - key: Linux
-      value: Debian, CentOS
-    - key: Infrastructure as Code
-      value: Terraform
-    - key: Virtualization
-      value: vmware esx, docker, kubernetes
-    - key: Cloud Platforms
-      value: Azure, GCP
-    - key: Secrets Management
-      value: HashiCorp Vault
-    - key: Endpoint Management
-      value: Intune
-    - key: Version Control
+    - key: Systems and Infrastructure
+      value: Linux (Debian, CentOS), Terraform, Intune
+    - key: Security and Identity Management
+      value: HashiCorp Vault, Okta
+    - key: Collaboration and Version Control
       value: Git
-    - key: Identity and Access Management
-      value: Okta
 
 - key: Projects @ Agicap
   value:
